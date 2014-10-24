@@ -1,0 +1,14 @@
+{
+    "name": "matthieutk/php_a2_gr1_twig",
+    "require": {
+        "twig/twig": "~1.16"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthieu",
+            "email": "matthieucarcagno@hotmail.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
